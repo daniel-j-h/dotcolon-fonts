@@ -1,0 +1,143 @@
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('aileron-black.woff2') format('woff2'),
+       url('aileron-black.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('aileron-blackitalic.woff2') format('woff2'),
+       url('aileron-blackitalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('aileron-bold.woff2') format('woff2'),
+       url('aileron-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('aileron-bolditalic.woff2') format('woff2'),
+       url('aileron-bolditalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('aileron-heavy.woff2') format('woff2'),
+       url('aileron-heavy.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url('aileron-heavyitalic.woff2') format('woff2'),
+       url('aileron-heavyitalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('aileron-italic.woff2') format('woff2'),
+       url('aileron-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('aileron-light.woff2') format('woff2'),
+       url('aileron-light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('aileron-lightitalic.woff2') format('woff2'),
+       url('aileron-lightitalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('aileron-regular.woff2') format('woff2'),
+       url('aileron-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('aileron-semibold.woff2') format('woff2'),
+       url('aileron-semibold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('aileron-semibolditalic.woff2') format('woff2'),
+       url('aileron-semibolditalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('aileron-thin.woff2') format('woff2'),
+       url('aileron-thin.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('aileron-thinitalic.woff2') format('woff2'),
+       url('aileron-thinitalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('aileron-ultralight.woff2') format('woff2'),
+       url('aileron-ultralight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Aileron';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url('aileron-ultralightitalic.woff2') format('woff2'),
+       url('aileron-ultralightitalic.woff') format('woff');
+}
