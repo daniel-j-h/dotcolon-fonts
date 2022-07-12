@@ -5,12 +5,12 @@ Sora Sagano's excellent fonts packaged up for the web.
 
 ## Overview
 
+- [Nacelle](./nacelle/README.md) ⭐
+- [Route 159](./route159/README.md) ⭐
 - [Aileron](./aileron/README.md)
-- [Nacelle](./nacelle/README.md)
 - Melete
 - F1.8
 - F5.6
-- [Route 159](./route159/README.md)
 - Eunomia
 - Penna
 - Seshat
